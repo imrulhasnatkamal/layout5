@@ -1,0 +1,60 @@
+h2{
+    margin: 0;
+}
+.logo{
+    background-color: gray;
+    height: 100px;
+}
+.header{
+    background-color: gray;
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.nav{
+    overflow: hidden;
+}
+.nav1{
+    background-color: gray;
+    height: 30px;
+    width: 22.35%;
+    float: left;
+}
+.two{
+    margin-left: 55px;
+}
+.three{
+    margin-left: 55px;
+}
+.four{
+    margin-left: 55px;
+}
+.container{
+margin-top: 15px;
+overflow: hidden;
+}
+.about{
+    background-color: gray;
+    height: 450px;
+    width: 50%;
+    float: left;
+}
+.cons{
+width: 45%;
+float: right;
+}
+.link1{
+    background-color: gray;
+    height: 140px;
+    margin-bottom: 10px;
+}
+.link2{
+    background-color: gray;
+    height: 300px;
+}
+.footer{
+    background-color: gray;
+    margin-top: 10px;
+    height: 150px;
+    text-align: center;
+}
